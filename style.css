@@ -11,6 +11,10 @@
   padding: 20px;
   text-align: center;
   background-color: #8b0000;
-  color: lightgrey;
+  color: white;
   font-size: 30px;
+}
+
+.sketch {
+  padding-top: 20px;
 }
