@@ -15,6 +15,22 @@
   font-size: 30px;
 }
 
+.about {
+  background-color: #71706E;
+  color: white;
+  text-align: center;
+}
+
+#photo {
+  text-align:center;
+  display:block; 
+}
+
+#para {
+  text-align: left;
+  padding-left: 10px;
+}
+
 .sketch {
   padding-top: 20px;
 }
